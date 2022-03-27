@@ -1,5 +1,5 @@
-# ErkekKadinSohbet
-Python ile erkek ve kadın sohbetinin Türkçe seslendirilmesi
+# Türkçe Erkek ve Kadın Seslendirmesi
+Python ile erkek ve kadın sohbet metinlerinin Türkçe seslendirilmesi
 
 # Öncelikle
 Python 3'ü kurun, önceki versiyonlar da çalışabilir. Test etmedim.
